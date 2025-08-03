@@ -1,0 +1,2 @@
+# Spam-Profiled-Detection-Using-Computational-Intelligence-on-online-Comunities
+🚀 Overview This project focuses on identifying spam profiles from a dataset of 10,000+ user records using supervised learning algorithms. It leverages data preprocessing, feature analysis, and classification modeling to enhance detection accuracy and reduce false positives.  🧠 Key Features Developed predictive models to classify legitimate vs. 
